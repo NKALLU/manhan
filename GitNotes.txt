@@ -1,3 +1,8 @@
 $ git init
 $ git remote add origin https://github.com/NKALLU/manhan.git
 $ git pull origin master
+git status
+git add GitNotes.txt
+git status
+git commit  -m "Adding new files called GitNotes.txt"
+git add -A  == add all the files
