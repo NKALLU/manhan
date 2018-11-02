@@ -6,3 +6,8 @@ git add GitNotes.txt
 git status
 git commit  -m "Adding new files called GitNotes.txt"
 git add -A  == add all the files
+
+git commit -a -m "Adding new files"
+git log
+
+git remote show origin
